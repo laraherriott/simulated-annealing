@@ -1,6 +1,6 @@
 # Simulated Annealing
 
-## Package: simulated-annealing
+## Package: simulated_annealing
 
 simulated-annealing is a package for conducting simulated annealing optimization in python.
 
