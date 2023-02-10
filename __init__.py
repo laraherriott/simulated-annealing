@@ -6,4 +6,4 @@ from .version_info import VERSION_INT, VERSION
 
 # Import main classes
 from .methods import Methods 
-from .simulated_annealing import SimulatedAnnealing
+from .simulate import SimulatedAnnealing
