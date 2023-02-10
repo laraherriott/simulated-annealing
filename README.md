@@ -14,6 +14,4 @@ results, temperatures = simulate.SimulatedAnneal()
 ```
 
 By default the package uses an exponential multiplicative cooling schedule, a gaussian method for choosing the neighbour, and the Metropolis acceptance criteria.
-Further information on these various algorithm design features can be found in the background, below.
-
-## Background
+Further information on these various algorithm design features can be found in the file Background.md
